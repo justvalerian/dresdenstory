@@ -2,7 +2,7 @@
 
 ## About
 
-<img alt="DresdenStory launcher icon" align="left" src="https://user-images.githubusercontent.com/46158468/152214954-5f9fb7ce-b909-4521-ac51-cf80a8756b5e.png" />
+<img alt="DresdenStory launcher icon" align="right" src="https://user-images.githubusercontent.com/46158468/152214954-5f9fb7ce-b909-4521-ac51-cf80a8756b5e.png" />
 
 DresdenStory is an app to get to know or rediscover the most exciting places in Dresden in a different and more interactive way compared to regular city guides. To reach this aim we utilized storytelling (the different points are chapters in a connected narrative), images and challenges (questions that need to be answered after each chapter) to let users enjoy the experience of getting to know or rediscovering Dresden.
 
