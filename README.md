@@ -8,6 +8,9 @@ DresdenStory is an app to get to know or rediscover the most exciting places in 
 
 This project was created by Ana Pinilla and Valerian Lange as part of the [Cartography M.Sc. programme](https://cartographymaster.eu/).
 
+The app was written in Java only (no Kotlin), as this was a course requirement and helps to make the code approachable for beginners.
+The app was written for Android 12 (API level 31).
+
 ## Functions
 
 The user interface of the app is structured into three main activities:
