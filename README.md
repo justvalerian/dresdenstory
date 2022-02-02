@@ -16,8 +16,9 @@ The app was written for Android 12 (API level 31).
 ### 1. Build the app in Android Studio and run it on a virtual device
 
 1. Clone the repository or download the zipped project and unzip it.
-2. Then open the folder in Android Studio. 
-3. To run the app you will then need to [set up a virtual device](https://developer.android.com/studio/run/managing-avds) or connect a phone using Android API level 31.
+2. Then open the folder in Android Studio.
+3. For the app to work properly you will need to add your own Google Maps API key. Find instructions and then paste your key [here](https://github.com/justvalerian/dresdenstory/blob/main/app/src/debug/res/values/google_maps_api.xml).
+4. To run the app you will then need to [set up a virtual device](https://developer.android.com/studio/run/managing-avds) or connect a phone using Android API level 31.
 
 ### 2. Look at the code
 
