@@ -1,0 +1,65 @@
+<resources>
+    <!-- general -->
+    <string name="app_name">DresdenStory</string>
+    <string name="placeholder_generic">generic placeholder</string>
+
+    <!-- buttons -->
+    <string name="button_got_it">Got it</string>
+    <string name="button_explain">explain in detail</string>
+    <string name="button_close">close</string>
+    <string name="button_back">back</string>
+    <string name="button_next">next</string>
+
+    <!-- main menu -->
+    <string name="menu_map_button">Map</string>
+    <string name="menu_story_button">Story</string>
+    <string name="menu_info_button">Info</string>
+
+    <!-- map activity and map marker info window -->
+    <string name="map_marker_button">Go to chapter</string>
+    <string name="map_location_permission">Location cannot be obtained due to missing permission.</string>
+    <string name="map_walking_area">All the chapters will be inside this area, so no need to walk too far.</string>
+
+    <!-- chapter fragment -->
+    <string name="chapter_content_locked">This chapter is still locked, answer the question in the last chapter to unlock the next.</string>
+    <string name="chapter_title_locked">Locked chapter.</string>
+    <string name="chapter_title">"Chapter "</string>
+    <string name="chapter_title_introduction">Introduction</string>
+    <string name="chapter_location_locked">Location still hidden.</string>
+    <string name="chapter_location_format_text_lat_lon">%s: \n%f, %f</string>
+    <string name="chapter_short_description_locked">Short description not unlocked yet.</string>
+    <string name="chapter_answer_prompt">Type your answer here</string>
+    <string name="chapter_send_button">Send</string>
+    <string name="chapter_question_placeholder">Question to be displayed here.</string>
+    <string name="chapter_question_heading">Question</string>
+    <!-- chapter answer feedback -->
+    <string name="chapter_feedback_finished">This was the last chapter, congratulations on finishing the story!</string>
+    <string name="chapter_feedback_finished_button">Wow, that\'s great!</string>
+    <string name="chapter_feedback_already_unlocked">You already unlocked this chapter, continue with the next one.</string>
+    <string name="chapter_feedback_already_unlocked_button">Will do</string>
+    <string name="chapter_feedback_unlocked">Yeah, you unlocked the next chapter!</string>
+    <string name="chapter_feedback_unlocked_button">Nice!</string>
+    <string name="chapter_feedback_wrong">"Wrong! Hint: "</string>
+    <string name="chapter_feedback_wrong_button">Try again</string>
+
+    <!-- info activity -->
+    <string name="info_links">Image directly above: <a href="https://designs.ai/">Designs.ai</a>\n\nIntroduction image: <a href="https://commons.wikimedia.org/wiki/File:Flag_of_Dresden.svg">Landeshauptstadt Dresden, \"Flag of Dresden\", 2014</a>\n\nChapter 1 image 1: <a href="https://commons.wikimedia.org/wiki/File:Haus_Altmarkt_2011.jpg">adornix, \"Haus Altmarkt\", 2011</a>\n\nChapter 1 image 2: <a href="https://commons.wikimedia.org/wiki/File:Altmarkt-Skulpturen.jpg">SchiDD, \"Altmarkt sculptures\", 2014</a>\n\nChapter 2 image: <a href="https://commons.wikimedia.org/wiki/File:Weg_der_Roten_Fahne.jpg">Heiko S, \"The Way of The Red Flag\", 2012</a>\n\nMarker icon: <a href="https://thenounproject.com">Vighnesh Anvekar, available under Creative Commons Attribution 3.0 Unported at Noun Project</a>\n\nBook icon: <a href="https://thenounproject.com">Evalien Wiersma, available under Creative Commons Attribution 3.0 Unported at Noun Project</a>\n\nConstruction history of the Kulturpalast: <a href="https://www.kulturpalast-dresden.de/de/baugeschichte.html">Landeshauptstadt Dresden</a></string>
+    <string name="info_dresdenstory_description">DresdenStory is an app to get to know or rediscover the most exciting places in Dresden, through a fun and different experience.\n\nMap: See the location where each chapter takes place. Get directions to reach each point.\n\nStory: Find historical references told through storytelling, images and challenges.\n\nThis project was created by Ana Pinilla and Valerian Lange as part of the Cartography M.Sc. programme.</string>
+    <string name="info_references">References</string>
+    <string name="info_about_dresdenstory">About DresdenStory</string>
+    <string name="info_button">get started</string>
+
+    <!-- tutorial -->
+    <string name="tutorial_welcome_title">Welcome to DresdenStory!</string>
+    <string name="tutorial_welcome">DresdenStory is a story-based city guide to get to know or rediscover the most exciting places in Dresden.\nGo to the first marked location to start.\n\nEstimated time to finish: 30 minutes\nEstimated total distance: 1km</string>
+    <string name="tutorial_menu_title">The main menu</string>
+    <string name="tutorial_menu">At the bottom of the screen, you can see three menu buttons, which will take you to the respective screen of the app. All three will be further introduced now.\nIf you want to restart this tutorial later, go to the info screen.</string>
+    <string name="tutorial_map_title">This is the map screen</string>
+    <string name="tutorial_map">Here, you can see the location where the next chapter will take place and get directions to reach the point. All previously unlocked chapters are visible here as well.</string>
+    <string name="tutorial_story_title">This is the story screen</string>
+    <string name="tutorial_story">Find historical references told through storytelling, images and challenges. The first chapter is an introduction which will further explain the mechanics and the setting.</string>
+    <string name="tutorial_info_title">This is the info screen</string>
+    <string name="tutorial_info">Here, you can find additional information about the app. If you want to restart this tutorial later, click the button in the top of this screen.</string>
+    <string name="tutorial_end">got it, take me back to the map</string>
+
+</resources>

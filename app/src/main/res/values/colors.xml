@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- general black and grey hues -->
+    <color name="black">#ff000000</color>
+    <color name="medium_gray">#d2d2d2</color>
+    <color name="gray">#8d8a8b</color>
+    <color name="dark_gray">#757575</color>
+    <!-- app color scheme -->
+    <color name="light_blue">#96bdc6</color>
+    <color name="yellow">#f9df4b</color>
+    <color name="light_gray">#d2d4d3</color>
+    <color name="brown">#845932</color>
+    <color name="satin">#e8ccbf</color>
+    <color name="light_white">#fafafa</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
